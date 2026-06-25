@@ -1,8 +1,6 @@
 # Mosquito Data Management System
 
-**Sistema de escritorio para el monitoreo de ovitrampas de _Aedes aegypti_ en el
-Distrito Metropolitano de Quito (DMQ).** Desarrollado para el Instituto Nacional de
-Salud Pública e Investigación (INSPI).
+**Sistema de escritorio para el monitoreo de ovitrampas.
 
 > Este repositorio es el **sitio oficial de descarga y soporte**. Aquí no se publica
 > el código fuente; solo el instalador oficial, la documentación y las notas de versión.
@@ -20,8 +18,8 @@ repositorio oficial. No confíes en copias distribuidas por otros medios.
 
 | | |
 |---|---|
-| **Versión actual** | v1.0.0 |
-| **Archivo** | `MosquitoDataManagementSystem_Setup_v1.0.0.exe` |
+| **Versión actual** | v1.0.1 |
+| **Archivo** | `MosquitoDataManagementSystem_Setup_v1.0.1.exe` |
 | **Sistema operativo** | Windows 10 o superior (64 bits) |
 
 Verifica la integridad del archivo con el hash SHA-256 publicado en cada release
@@ -43,7 +41,7 @@ Verifica la integridad del archivo con el hash SHA-256 publicado en cada release
 ## 📚 Documentación
 
 - [Guía de instalación](docs/instalacion.md)
-- [Manual de usuario](docs/manual_usuario.md)
+- [Manual de usuario](docs/manual_usuario/manual_usuario.md)
 - [Notas de versión / Changelog](CHANGELOG.md)
 - [Política de seguridad](SECURITY.md)
 

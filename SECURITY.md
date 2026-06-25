@@ -32,4 +32,4 @@ No ejecutes binarios obtenidos de otras fuentes.
 ## Credenciales
 
 La aplicación se entrega con credenciales iniciales que se comunican por el canal de
-soporte. **Cámbialas en el primer inicio de sesión** y no las compartas.
+soporte. **Cámbialas en el primer inicio de sesión**.
