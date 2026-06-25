@@ -1,0 +1,9 @@
+*.exe
+*.env
+*.env.*
+*.db
+*.sqlite
+*.pkl
+*.log
+secrets/
+tokens/
